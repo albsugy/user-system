@@ -13,8 +13,6 @@ Task | Description
 `npm run test` | test the aplication
 `npm run build` | build for production
 
-you can use `yarn` too.
-
 ## Features
 - List of existing users.
 - list of existing groups.
