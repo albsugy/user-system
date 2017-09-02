@@ -1,0 +1,13 @@
+{
+    "extends": ["standard", "standard-react"],
+    "rules": {
+        "no-return-assign": [0,"except-parens"]
+    },
+    "globals": {
+        "describe": true,
+        "it": true,
+        "expect": true,
+        "beforeEach": true
+    }
+    
+}

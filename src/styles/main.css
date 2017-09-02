@@ -1,0 +1,48 @@
+@import url("https://bootswatch.com/sandstone/bootstrap.min.css");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+#logo {
+  width: 35px;
+  display: inline-block;
+  vertical-align: top;
+  transform: translateY(-8px);
+  vertical-align: top;
+  margin-right: 15px; }
+
+.copyrights {
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+  margin-top: 20px; }
+
+.users-table th, .users-table tr, .users-table td, .users-table tbody tr td, .group-table th, .group-table tr, .group-table td, .group-table tbody tr td {
+  text-align: center;
+  vertical-align: middle; }
+
+.users-table .name-cell, .group-table .name-cell {
+  text-align: left; }
+  .users-table .name-cell a, .group-table .name-cell a {
+    color: #797164; }
+
+.users-table ul, .group-table ul {
+  padding: 0;
+  margin: 0;
+  list-style: none; }
+  .users-table ul li, .group-table ul li {
+    list-style-type: none; }
+
+.action-btn {
+  height: 18px;
+  width: 22px;
+  border-radius: 3px;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  outline: none;
+  padding: 0;
+  display: table-cell;
+  vertical-align: sub; }
+
+.remove-btn {
+  color: #d9534f; }
+
+.edit-btn {
+  color: #93c54b; }

@@ -1,0 +1,39 @@
+.users-table, .group-table{
+    th, tr, td, tbody tr td {
+        text-align: center;
+        vertical-align: middle;
+    }
+    .name-cell{
+        text-align: left;
+        a{
+            color: #797164;
+        }
+    }
+    ul{
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        li{
+            list-style-type: none;
+        }
+    }
+    
+}
+.action-btn{
+    height: 18px;
+    width: 22px;
+    border-radius: 3px;
+    background: transparent;
+    border: none;
+    font-size: 14px;
+    outline: none;
+    padding: 0;
+    display: table-cell;
+    vertical-align: sub;
+}
+.remove-btn{
+    color: #d9534f;
+}
+.edit-btn {
+    color: #93c54b;
+}
