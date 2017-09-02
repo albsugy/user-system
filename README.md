@@ -12,6 +12,7 @@ Task | Description
 `npm start` | start the aplication at http://localhost:3000/
 `npm run test` | test the aplication
 `npm run build` | build for production
+
 you can use `yarn` too.
 
 ## Features
